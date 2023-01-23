@@ -1,0 +1,21 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "main": "File-System/demo_http_url.js",
+  "scripts": {
+    "start": "nodemon File-System/demo_http_url.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "formidable": "^2.0.1",
+    "math": "^0.0.3",
+    "nodemailer": "^6.7.0",
+    "nodemon": "^2.0.14",
+    "upper-case": "^2.0.2"
+  },
+  "description": ""
+}
